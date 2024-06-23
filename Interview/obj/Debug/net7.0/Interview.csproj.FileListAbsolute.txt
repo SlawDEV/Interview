@@ -1,0 +1,14 @@
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/bin/Debug/net7.0/Interview
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/bin/Debug/net7.0/Interview.deps.json
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/bin/Debug/net7.0/Interview.runtimeconfig.json
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/bin/Debug/net7.0/Interview.dll
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/bin/Debug/net7.0/Interview.pdb
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.AssemblyInfoInputs.cache
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.AssemblyInfo.cs
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.csproj.CoreCompileInputs.cache
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.dll
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/refint/Interview.dll
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.pdb
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/Interview.genruntimeconfig.cache
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/hard/Interview/Interview/obj/Debug/net7.0/ref/Interview.dll
